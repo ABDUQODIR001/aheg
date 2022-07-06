@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.cls{
+width: 250px;
+height: 200px;
+border: 2px solid red;
+background-color:rgb(124, 172, 235) ;
+}
+body{
+    background-color: aqua;
+}
+input{
+    border-radius:5px   ;
+    border: 3px solid aqua;
+    box-shadow: -1px 3px 5px 1px aqua;
+    text-align: center;
+
+}
+button{
+    width: 70px;
+    height: 20px;
+} 
